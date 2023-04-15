@@ -33,5 +33,6 @@ Based on the findings, the following recommendations were made:
 Cab companies should focus their marketing and expansion efforts on cities with higher populations to increase demand for their services.
 Cab companies should aim to increase their customer base to increase profitability. This can be achieved by offering promotions and incentives to attract new customers and retain existing ones.
 Cab companies should conduct a market analysis to identify cities with the highest profit margins and focus on expanding their operations in those areas.
+
 Conclusion
 This analysis provided valuable insights into the demand for cab services, the relationship between population and number of cab users, and the profitability of cab companies. The recommendations provided can be used by cab companies to optimize their operations and increase profitability.
