@@ -27,6 +27,10 @@ Hypothesis testing, which involved statistical analysis to test the hypotheses f
 Conclusion and recommendations, which involved summarizing the findings and making recommendations based on the results.
 Results and Recommendations
 The results of the analysis showed that there is a positive correlation between the population of a city and the number of cab users, supporting the first hypothesis. The second hypothesis, that the profit margin increases with an increase in the number of customers, was also supported by the data. Finally, the third hypothesis was confirmed, showing that the profit margin varies with the city.
+![image](https://user-images.githubusercontent.com/82849694/232180243-1f0bd42c-2029-4a6b-a2d4-61901525af5d.png)
+![image](https://user-images.githubusercontent.com/82849694/232180265-ef9331e7-25b1-4825-abf2-cc6a928fd4b0.png)
+![image](https://user-images.githubusercontent.com/82849694/232180278-1fd8d1d7-2224-4282-a6ba-e0204a8d6cc2.png)
+
 
 Based on the findings, the following recommendations were made:
 
